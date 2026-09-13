@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Md. Humayun Kabir"
   pronouns         : "he/him"  
-  bio              : "Assistant Professor, Department of Environmental Science | Stamford University Bangladesh"
+  bio              : "Assistant Professor of Environmental Science"
   location         : "Dhaka, Bangladesh"
   employer         : "Stamford University Bangladesh"
   uri              : # URL
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
