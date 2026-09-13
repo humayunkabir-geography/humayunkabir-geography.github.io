@@ -24,13 +24,13 @@ repository               : "humayunkabir-geography/humayunkabir-geography.github
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Md. Humayun Kabir"
+  pronouns         : "he/him"  
+  bio              : "Assistant Professor, Department of Environmental Science | Stamford University Bangladesh"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Stamford University Bangladesh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "humayun@stamforduniversity.edu.bd" 
 
   # Academic websites
   academia         : # URL
