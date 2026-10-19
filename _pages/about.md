@@ -2,19 +2,43 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---- 
-Md. Humayun Kabir is the Assistant Professor of the Department of Environmental Science at Stamford University Bangladesh. He graduated with B.Sc. and M.Sc. degrees majoring Geography and Environment from Jahangirnagar University, Bangladesh. A geographer by training, Mr. Kabir’s research focuses in areas of urbanization science, land system science, climate change, & hydrology. He is particularly interested on how urbanization affects the planet. He integrates GIS, remote sensing, field interviews, and modeling methods to study urbanization and land change, forecast urban growth, and examine the environmental consequences of urban expansion. He is an expert in satellite remote sensing analysis and his research brings new insights on the interactions between urbanization and land use/cover change, the effects of urban expansion on hydrology and biodiversity, and urban mitigation of climate change.<img width="468" height="153" alt="image" src="https://github.com/user-attachments/assets/7416203b-30bb-4b4d-b43c-583a23ace5e1" />
-## Research Interests
-•	Urbanization science 
-•	Land system science
-•	Climate change 
-•	hydrology
-•	GIS & remote sensing 
-<img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/810bd339-3ee9-4562-ac7c-7803f8ee709c" />
-## Research Projects
+About Me
+
+Md. Humayun Kabir is an Assistant Professor in the Department of Environmental Science at Stamford University Bangladesh. He holds B.Sc. and M.Sc. degrees in Geography and Environment from Jahangirnagar University, Bangladesh.
+
+His research focuses on urbanization science, land system science, climate change, hydrology, and environmental change. He integrates Geographic Information Systems (GIS), remote sensing, field-based investigation, and modelling approaches to examine patterns of urban growth and land-use/land-cover (LULC) change and their environmental consequences.
+
+His broader research interests include understanding the relationships between urban expansion, hydrological processes, biodiversity, and climate change. He is particularly interested in using geospatial technologies and data-driven analytical methods to investigate environmental challenges and support evidence-based planning and sustainable development.
+
+Research Interests
+
+Geographic Information Systems (GIS) and Remote Sensing
+GeoAI and Machine Learning for environmental applications
+Urbanization Science and Urban Environmental Change
+Land System Science and Land-Use/Land-Cover Change
+Climate Change and Environmental Sustainability
+Hydrology and Water Resources
+Ecosystem Services and Biodiversity
+Environmental Risk Assessment and Disaster Risk Reduction
+
+Research Projects
+
+His research and professional interests include:
+
+Land-use/land-cover change in the Rohingya settlement region
+Machine learning applications in ocean and environmental research
+Land-use/land-cover change and ecosystem services in Dhaka
+Geospatial analysis and environmental assessment
+GIS and remote sensing applications for environmental planning
+Teaching and Academic Engagement
+
+As an environmental science academic, he is interested in connecting environmental science concepts with practical applications of GIS, remote sensing, and spatial analysis. His broader academic interests include interdisciplinary research, student learning, and the use of geospatial evidence to address environmental challenges.
+
+Collaboration
+
+He welcomes opportunities for academic collaboration in environmental science, GIS, remote sensing, GeoAI, land system science, climate change, hydrology, and related areas.
+
+For information about his research output and academic work, please explore the Publications, Projects, Teaching, and CV sections of this website.
 ## 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
