@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- # About Me
+Md. Humayun Kabir is the Assistant Professor of the Department of Environmental Science at Stamford University Bangladesh. He graduated with B.Sc. and M.Sc. degrees majoring Geography and Environment from Jahangirnagar University, Bangladesh. A geographer by training, Mr. Kabir’s research focuses in areas of urbanization science, land system science, climate change, & hydrology. He is particularly interested on how urbanization affects the planet. He integrates GIS, remote sensing, field interviews, and modeling methods to study urbanization and land change, forecast urban growth, and examine the environmental consequences of urban expansion. He is an expert in satellite remote sensing analysis and his research brings new insights on the interactions between urbanization and land use/cover change, the effects of urban expansion on hydrology and biodiversity, and urban mitigation of climate change.<img width="468" height="153" alt="image" src="https://github.com/user-attachments/assets/7416203b-30bb-4b4d-b43c-583a23ace5e1" />
+## Research Interests
+•	Urbanization science 
+•	Land system science
+•	Climate change 
+•	hydrology
+•	GIS & remote sensing 
+<img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/810bd339-3ee9-4562-ac7c-7803f8ee709c" />
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
