@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- # About Me
+--- 
 Md. Humayun Kabir is the Assistant Professor of the Department of Environmental Science at Stamford University Bangladesh. He graduated with B.Sc. and M.Sc. degrees majoring Geography and Environment from Jahangirnagar University, Bangladesh. A geographer by training, Mr. Kabir’s research focuses in areas of urbanization science, land system science, climate change, & hydrology. He is particularly interested on how urbanization affects the planet. He integrates GIS, remote sensing, field interviews, and modeling methods to study urbanization and land change, forecast urban growth, and examine the environmental consequences of urban expansion. He is an expert in satellite remote sensing analysis and his research brings new insights on the interactions between urbanization and land use/cover change, the effects of urban expansion on hydrology and biodiversity, and urban mitigation of climate change.<img width="468" height="153" alt="image" src="https://github.com/user-attachments/assets/7416203b-30bb-4b4d-b43c-583a23ace5e1" />
 ## Research Interests
 •	Urbanization science 
