@@ -30,7 +30,10 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         : "Stamford University Bangladesh"
   uri              : # URL
-  email            : "humayun@stamforduniversity.edu.bd" 
+  email            : "humayun@stamforduniversity.edu.bd"
+  linkedin         : "md-humayun-kabir-09464b136"
+  researchgate     : "Md-Humayun-Kabir-3"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=NFSpVw8AAAAJ"
 
   # Academic websites
   academia         : # URL
