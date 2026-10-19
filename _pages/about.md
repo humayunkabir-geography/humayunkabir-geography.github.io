@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-About Me
+---
 
 Md. Humayun Kabir is an Assistant Professor in the Department of Environmental Science at Stamford University Bangladesh. He holds B.Sc. and M.Sc. degrees in Geography and Environment from Jahangirnagar University, Bangladesh.
 
