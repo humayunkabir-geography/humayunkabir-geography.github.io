@@ -23,7 +23,7 @@ repository               : "humayunkabir-geography/humayunkabir-geography.github
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Md. Humayun Kabir"
   pronouns         : "he/him"  
   bio              : "Assistant Professor of Environmental Science"
